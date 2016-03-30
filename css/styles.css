@@ -1,0 +1,56 @@
+div {
+  font-family: 'Poiret One'
+}
+#welcome {
+  height: 65px;
+  background-color: grey;
+  margin-top: 15px;
+  margin-bottom: 10px;
+  text-align: center;
+  padding-top: 15px;
+  color: white;
+}
+#navbar {
+  text-align: center;
+  height: 75px;
+  background-color: white;
+  margin-top: 1px;
+  margin-bottom: 10px;
+  padding-top: 8px
+}
+.menu {
+  border-radius: 5px;
+  border: 2px solid #6495ED;
+  background-color: #BCD2EE;
+  height: 25px;
+  width: 250px;
+  margin: auto;
+  text-align: center;
+  position: relative;
+  margin-top: 40px;
+  font-size: 16px;
+  font-family: Courier;
+}
+#aboutme {
+  position: absolute;
+  left: 150px;
+  top: 90px;
+}
+#interests {
+  position: absolute;
+  left: 550px;
+  top: 90px;
+}
+#contact {
+  position: absolute;
+  left: 950px;
+  top: 90px;
+}
+#girl {
+  width: 100%;
+}
+
+#testbox {
+  width: 90%;
+ margin: 0 auto;
+}
